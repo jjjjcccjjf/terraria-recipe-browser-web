@@ -5,16 +5,15 @@ export default defineNuxtConfig({
     head: {
       htmlAttrs: {
         "data-theme": "forest",
-        class: "font-terraria",
       },
     },
   },
   css: ["~/assets/css/main.css"],
-  postcss: {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
-    },
-  },
+  // postcss: {
+  //   plugins: {
+  //     tailwindcss: {},
+  //     autoprefixer: {},
+  //   },
+  // },
   modules: ["@nuxtjs/tailwindcss"],
 });
