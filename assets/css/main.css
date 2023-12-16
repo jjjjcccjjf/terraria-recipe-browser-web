@@ -6,3 +6,10 @@
   font-family: "andyb";
   src: url("../fonts/ANDYB.TTF");
 }
+
+
+@layer base {
+  :root {
+    --padding-card: 0;
+  }
+}
