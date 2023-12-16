@@ -1,12 +1,12 @@
 <template>
-    <div class="card   shadow-xl mx-auto bg-base-300">
+    <div class="card rounded-none shadow-xl mx-auto bg-base-100">
         <figure></figure>
         <div class="card-body padding-0 min-w-[320px]">
             <div class="flex w-full">
                 <div class="grid h-20 flex-grow card  rounded-box place-items-center">
                     <img src="~assets/sample_recipe_1.webp" alt="..." /> <span>Emerald Staff</span>
                 </div>
-                <div class="divider divider-horizontal">&LeftRightArrow;</div>
+                <div class="divider divider-horizontal"></div>
                 <div class="grid h-fit flex-grow card  rounded-box place-items-center">
                     <ul class="flex gap-2 flex-col items-start">
                         <li class="flex gap-2 justify-center items-center">

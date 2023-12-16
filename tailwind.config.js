@@ -6,6 +6,9 @@ export default {
       fontFamily: {
         terraria: ["andyb", "Helvetica", "Arial", "sans-serif"],
       },
+      // screens: {
+      //   "3xl": "1920px",
+      // },
     },
   },
   plugins: [require("daisyui")],
