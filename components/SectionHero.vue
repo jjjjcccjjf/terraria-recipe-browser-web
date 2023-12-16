@@ -1,6 +1,6 @@
 <template>
     <section
-        class="container mx-auto bg-[url('~/assets/bg.webp')] min-h-[400px] bg-cover relative flex items-center justify-center">
+        class="w-full bg-[url('~/assets/bg.webp')] min-h-[400px] bg-cover relative flex items-center justify-center">
         <div class="z-10 flex items-center justify-center flex-col gap-12">
             <div class="flex flex-col gap-4 relative">
                 <img src="~/assets/logo.webp" alt="..." class="w-4/5 mx-auto ">

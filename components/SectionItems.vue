@@ -1,5 +1,5 @@
 <template>
-    <div class="container ">
+    <div class="w-full grid gap-2">
         <CommonCard></CommonCard>
         <CommonCard></CommonCard>
         <CommonCard></CommonCard>
