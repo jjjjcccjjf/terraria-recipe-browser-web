@@ -1,3 +1,7 @@
+<script setup>
+
+</script>
+
 <template>
     <div class="card shadow-xl mx-auto bg-terraria/80 border-2 border-terraria-border/50">
         <!-- <figure></figure> -->
